@@ -5,7 +5,7 @@ Thus songs will not be playable.
 
 Accessing the project BoomBox:  
 Server used:
-•	XAMPP.
+•	XAMPP Server.
 •Database Password : boombox
 
 Import Database DBMusic.sql.gzip file from project folder to XAMPP server.
